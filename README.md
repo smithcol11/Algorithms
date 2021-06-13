@@ -185,3 +185,6 @@ void kruskal() {
   }
 }
 ```
+
+## Running Code
+> Many of these folders contain the source code as well as some .in or .input files. Feel free to run the programs using the input files as a means for testing. The files are setup so they will hit the requirements of the program. For Example, if running from a linux terminal: ./a.out < test.in
