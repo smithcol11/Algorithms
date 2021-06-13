@@ -1,5 +1,5 @@
 # Algorithms
-This Repository contains programs and algorithms from my CS350 course at PSU. In this class we analyzed algorthms including their space and time complexities. These are all written in either C or C++.
+This Repository contains programs and algorithms from my CS350 course at PSU. In this class we analyzed algorithms including their space and time complexities. These are all written in either C or C++. 
 
 ## Code Snippets
 > This program is actually quick sort, but we were not told its name to avoid looking up how to code it.
